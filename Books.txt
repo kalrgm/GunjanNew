@@ -1,0 +1,25 @@
+M Lakshmikant - polity 
+majid husain - geography 
+ramesh singh - economics 
+ecology - mjid 
+culture - nitin singhania
+ashok kumar - internal security 
+economic survey - social welfare and economics 
+
+
+
+You will find few tools matching in their skills common across most of them.
+
+Find best way to learn those tools such as Selenium,BDD,Cucumber,TestNG through following steps:
+
+The best way to start your learning on automation tools is as follows:
+
+Try learning Java Programming using Java BLACK BOOK. If you find yourself comfortable in scripting functions,OOPs based logic,loops and other basic elements that is good enough!
+Move to learn Selenium WebDriver scripting using JAVA (using Software Automation Testing Secrets Revealed-Part1,2)
+Construct a framework by yourself and get it uploaded in GITHUB website
+Learn Jenkins on how to schedule the project
+Try GIT on how to add,commit,push and pull,re-base etc
+Once comfortable with Selenium, try Appium using Java
+Try using TestNG to run both Selenium and Appium based scripts
+
+140806006
